@@ -1,0 +1,56 @@
+* {
+    background-color: #252A2B;
+    color: #F5F1E3;
+}
+
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    display: inline-block;
+    color: #D36B00;
+}
+
+h2 {
+
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+section,
+p {
+    margin: 3px;
+    padding: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+
+}
+
+img {
+    margin: 10px;
+    float: right;
+    width: 500px;
+    height: 930px;
+
+}
+
+footer p {
+    color: #029cba;
+    text-align: center;
+}
+
+
+
+li {
+    padding-bottom: 25px;
+}
