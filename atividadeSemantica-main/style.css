@@ -1,6 +1,7 @@
-* {
+body {
     background-color: #252A2B;
     color: #F5F1E3;
+    text-shadow: 5px 5px 5px rgba(255, 255, 255, 0.151);
 }
 
 
@@ -54,3 +55,5 @@ footer p {
 li {
     padding-bottom: 25px;
 }
+
+
